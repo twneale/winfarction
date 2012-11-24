@@ -5,7 +5,7 @@ winfarction
 An attack of winning
 ++++++++++++++++++++++++
 
-Automated deployment for webfaction through a declarative API:
+Automated deployment for webfaction through a declarative API: ::
 
     from winfarction import Session
     import settings
